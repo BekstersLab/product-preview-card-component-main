@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://beksterslab.github.io/..................................)
+- Solution URL: [My Solution](https://beksterslab.github.io/product-preview-card-component-main)
 
 ## My process
 
