@@ -36,7 +36,7 @@ Users should be able to:
 ### Continued development
 
 Further revision/work is required on flexbox. I struggled to get before:: and after:: pseudo-elements to work to add a margin/padding between certain elements (sale/full price and the cart icon/button text). Googling came up with the solution to apply display:block to the parent element. I tried adding this to all classes for container elements all the way up to, but not including, main but this made no difference.
-Fix: I added &nbsp; where needed which I am not happy about. I'd love to know where I've gone wrong?
+Fix: I added multiple non-breaking spaces where needed which I am not happy about. I'd love to know where I've gone wrong?
 I did manage to get the pseudo-elements to work with adding content eg.
 
 ```css
