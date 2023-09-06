@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/full-page.png)
-![](./screenshots/mobile.png)
+![](./screenshots/full-page-layout.png)
+![](./screenshots/active-state-layout.png)
+![](./screenshots/mobile-layout.png)
 
 ### Links
 
